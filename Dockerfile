@@ -3,15 +3,15 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
 # Copiem el projecte
-COPY ["APIProjecte/APIProjecte.csproj", "APIProjecte/"]
-RUN dotnet restore "APIProjecte/APIProjecte.csproj"
+COPY ["WebApplicationAPIDemo/WebApplicationAPIDemo.csproj", "WebApplicationAPIDemo/"]
+RUN dotnet restore "WebApplicationAPIDemo/WebApplicationAPIDemo.csproj"
 
 # Copiem la resta del codi
 COPY . .
-WORKDIR "/src/APIProjecte"
+WORKDIR "/src/WebApplicationAPIDemo"
 
 # Compilem i publiquem
-RUN dotnet publish "APIProjecte.csproj" -c Release -o /app/publish
+RUN dotnet publish "WebApplicationAPIDemo.csproj" -c Release -o /app/publish
 
 # Etapa final (runtime)
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
@@ -22,4 +22,4 @@ COPY --from=build /app/publish .
 ENV ASPNETCORE_URLS=http://+:10000
 EXPOSE 10000
 
-ENTRYPOINT ["dotnet", "APIProjecte.dll"]
+ENTRYPOINT ["dotnet", "WebApplicationAPIDemo.dll"]
