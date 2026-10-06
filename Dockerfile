@@ -1,25 +1,33 @@
-# Etapa de compilació
+# Etapa de compilación
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+
 WORKDIR /src
 
-# Copiem el projecte
-COPY ["WebApplicationAPIDemo/WebApplicationAPIDemo.csproj", "WebApplicationAPIDemo/"]
-RUN dotnet restore "WebApplicationAPIDemo/WebApplicationAPIDemo.csproj"
+# Copiar el proyecto
+COPY ["WebApplicationAPIRestDemo.csproj", "./"]
 
-# Copiem la resta del codi
+# Restaurar dependencias
+RUN dotnet restore "WebApplicationAPIRestDemo.csproj"
+
+# Copiar el resto del código
 COPY . .
-WORKDIR "/src/WebApplicationAPIDemo"
 
-# Compilem i publiquem
-RUN dotnet publish "WebApplicationAPIDemo.csproj" -c Release -o /app/publish
+# Compilar y publicar
+RUN dotnet publish "WebApplicationAPIRestDemo.csproj" \
+    -c Release \
+    -o /app/publish \
+    --no-restore
 
-# Etapa final (runtime)
-FROM mcr.microsoft.com/dotnet/aspnet:8.0
+
+# Etapa final
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
+
 WORKDIR /app
 
 COPY --from=build /app/publish .
 
 ENV ASPNETCORE_URLS=http://+:10000
+
 EXPOSE 10000
 
-ENTRYPOINT ["dotnet", "WebApplicationAPIDemo.dll"]
+ENTRYPOINT ["dotnet", "WebApplicationAPIRestDemo.dll"]
