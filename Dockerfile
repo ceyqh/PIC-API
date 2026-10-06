@@ -3,8 +3,8 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
 # Copiem el projecte
-COPY ["WebApplicationAPDemo/WebAplicationAPIRestDemo.csproj", "WebApplicationAPIDemo/"]
-RUN dotnet restore "WebApplicationAPDemo/WebAplicationAPIRestDemo.csproj"
+COPY ["WebApplicationAPIDemo/WebAplicationAPIRestDemo.csproj", "WebApplicationAPIDemo/"]
+RUN dotnet restore "WebApplicationAPIDemo/WebAplicationAPIRestDemo.csproj"
 
 # Copiem la resta del codi
 COPY . .
