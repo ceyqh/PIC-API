@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|c:\\users\\cescc\\onedrive\\escritorio\\projecte fnal\\api\\webapplicationapidemo\\webapplicationapidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|solutionrelative:webapplicationapidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|c:\\users\\cescc\\onedrive\\escritorio\\projecte fnal\\api\\webapplicationapidemo\\webapplicationapidemo\\dal\\model\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|solutionrelative:webapplicationapidemo\\dal\\model\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|c:\\users\\cescc\\onedrive\\escritorio\\projecte fnal\\api\\webapplicationapidemo\\webapplicationapidemo\\dal\\model\\usuaribase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|solutionrelative:webapplicationapidemo\\dal\\model\\usuaribase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|c:\\users\\cescc\\onedrive\\escritorio\\projecte fnal\\api\\webapplicationapidemo\\webapplicationapidemo\\dal\\model\\registre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|solutionrelative:webapplicationapidemo\\dal\\model\\registre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|c:\\users\\cescc\\onedrive\\escritorio\\projecte fnal\\api\\webapplicationapidemo\\webapplicationapidemo\\dal\\model\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|solutionrelative:webapplicationapidemo\\dal\\model\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|c:\\users\\cescc\\onedrive\\escritorio\\projecte fnal\\api\\webapplicationapidemo\\webapplicationapidemo\\dal\\model\\alumne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|solutionrelative:webapplicationapidemo\\dal\\model\\alumne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|c:\\users\\cescc\\onedrive\\escritorio\\projecte fnal\\api\\webapplicationapidemo\\webapplicationapidemo\\dal\\model\\prestec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|solutionrelative:webapplicationapidemo\\dal\\model\\prestec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|c:\\users\\cescc\\onedrive\\escritorio\\projecte fnal\\api\\webapplicationapidemo\\webapplicationapidemo\\dal\\model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|solutionrelative:webapplicationapidemo\\dal\\model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|c:\\users\\cescc\\onedrive\\escritorio\\projecte fnal\\api\\webapplicationapidemo\\webapplicationapidemo\\dal\\model\\dispositiu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|solutionrelative:webapplicationapidemo\\dal\\model\\dispositiu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|c:\\users\\cescc\\onedrive\\escritorio\\projecte fnal\\api\\webapplicationapidemo\\webapplicationapidemo\\dal\\model\\curs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|solutionrelative:webapplicationapidemo\\dal\\model\\curs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|c:\\users\\cescc\\onedrive\\escritorio\\projecte fnal\\api\\webapplicationapidemo\\webapplicationapidemo\\dal\\model\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8F044-C3B1-4BEB-9C88-B26A5CB7FE76}|WebApplicationAPIDemo\\WebAplicationAPIRestDemo.csproj|solutionrelative:webapplicationapidemo\\dal\\model\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationAPIDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\appsettings.json",
+              "RelativeToolTip": "WebApplicationAPIDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-29T17:01:19.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\DAL\\Model\\Administrador.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPIDemo\\DAL\\Model\\Administrador.cs",
+              "ToolTip": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\DAL\\Model\\Administrador.cs",
+              "RelativeToolTip": "WebApplicationAPIDemo\\DAL\\Model\\Administrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T15:12:30.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariBase.cs",
+              "DocumentMoniker": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\DAL\\Model\\UsuariBase.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPIDemo\\DAL\\Model\\UsuariBase.cs",
+              "ToolTip": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\DAL\\Model\\UsuariBase.cs",
+              "RelativeToolTip": "WebApplicationAPIDemo\\DAL\\Model\\UsuariBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T15:10:51.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registre.cs",
+              "DocumentMoniker": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\DAL\\Model\\Registre.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPIDemo\\DAL\\Model\\Registre.cs",
+              "ToolTip": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\DAL\\Model\\Registre.cs",
+              "RelativeToolTip": "WebApplicationAPIDemo\\DAL\\Model\\Registre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T15:10:09.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\DAL\\Model\\Professor.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPIDemo\\DAL\\Model\\Professor.cs",
+              "ToolTip": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\DAL\\Model\\Professor.cs",
+              "RelativeToolTip": "WebApplicationAPIDemo\\DAL\\Model\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T15:09:07.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Alumne.cs",
+              "DocumentMoniker": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\DAL\\Model\\Alumne.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPIDemo\\DAL\\Model\\Alumne.cs",
+              "ToolTip": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\DAL\\Model\\Alumne.cs",
+              "RelativeToolTip": "WebApplicationAPIDemo\\DAL\\Model\\Alumne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T15:08:43.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\DAL\\Model\\Categoria.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPIDemo\\DAL\\Model\\Categoria.cs",
+              "ToolTip": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\DAL\\Model\\Categoria.cs",
+              "RelativeToolTip": "WebApplicationAPIDemo\\DAL\\Model\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T15:06:58.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Prestec.cs",
+              "DocumentMoniker": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\DAL\\Model\\Prestec.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPIDemo\\DAL\\Model\\Prestec.cs",
+              "ToolTip": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\DAL\\Model\\Prestec.cs",
+              "RelativeToolTip": "WebApplicationAPIDemo\\DAL\\Model\\Prestec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T15:06:39.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dispositiu.cs",
+              "DocumentMoniker": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\DAL\\Model\\Dispositiu.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPIDemo\\DAL\\Model\\Dispositiu.cs",
+              "ToolTip": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\DAL\\Model\\Dispositiu.cs",
+              "RelativeToolTip": "WebApplicationAPIDemo\\DAL\\Model\\Dispositiu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T15:06:01.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Curs.cs",
+              "DocumentMoniker": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\DAL\\Model\\Curs.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPIDemo\\DAL\\Model\\Curs.cs",
+              "ToolTip": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\DAL\\Model\\Curs.cs",
+              "RelativeToolTip": "WebApplicationAPIDemo\\DAL\\Model\\Curs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T15:05:21.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Departament.cs",
+              "DocumentMoniker": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\DAL\\Model\\Departament.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPIDemo\\DAL\\Model\\Departament.cs",
+              "ToolTip": "C:\\Users\\cescc\\OneDrive\\Escritorio\\PROJECTE FNAL\\API\\WebApplicationAPIDemo\\WebApplicationAPIDemo\\DAL\\Model\\Departament.cs",
+              "RelativeToolTip": "WebApplicationAPIDemo\\DAL\\Model\\Departament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T15:04:53.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
